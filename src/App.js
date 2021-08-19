@@ -1,6 +1,5 @@
-
 function App() {
-  return "Happy coding";
+	return 'Happy coding'
 }
 
-export default App;
+export default App
